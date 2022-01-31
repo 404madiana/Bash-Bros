@@ -2,6 +2,7 @@
 ## *(ignore this repository plz) :moyai:*
 
 Basically alternative assets for the customized smashbros fighters site.
+I may drop resources as saves here, *i don't really care making it public~*
 ### Link to the page [here](http://bashbros.rf.gd/)..!
 Somehow this site wont approve my ssl certificat but don't worry! It doesn't have any disease, just this site can't be scrolled :/ *(~~i don't even know how to make a virus lmfao~~)*
 
