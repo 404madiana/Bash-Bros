@@ -1,7 +1,7 @@
 # Bash-Bros
 ## *(ignore this repository plz) :moyai:*
 
-Basically alternative assets for the customized smashbros fighters site.
+Basically alternative assets for my custom smashbros fighters site.
 
 I may drop resources as saves here, *i don't really care making it public~*
 ### Link to the page [here](http://bashbros.rf.gd/)..!
